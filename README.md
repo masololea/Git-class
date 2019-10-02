@@ -1,2 +1,1 @@
-# Git-class
- My 1st class
+My first class with git
